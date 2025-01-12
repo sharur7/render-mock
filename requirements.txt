@@ -1,1 +1,7 @@
-fastapi[all]
+fastapi
+uvicorn
+langchain
+cassio
+langchain-google-genai
+python-dotenv
+langchain-community
